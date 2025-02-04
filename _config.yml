@@ -73,10 +73,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Emcleodedwards"
-      label: "IMAGE Otago Website"
+    - label: "IMAGE Otago Website"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/imageotago/home"
       
+atom feed:
+  hide: true
 
 defaults:
   # _posts

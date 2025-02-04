@@ -77,7 +77,7 @@ footer:
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/imageotago/home"
       
-atom feed:
+atom_feed:
   hide: true
 
 defaults:

@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Kia ora e te Whānau!
+Ko whāingaroa te whenua tipu 
+Ka mihi au ki te mauka ko Karioi
+Ka mihi au ki te moana ko Whāingaroa
+Ko Ella tōku ikoa
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Ko tēnei taku mihi ki kā tākata whenua o te rohe.
+Ka mihi hoki ahau ki kā tohu o te rohe nei.
+No reira, tēnā koutou, tēnā koutou, tēnā koutou katoa
+
+
+Kia ora! I'm Ella!
+I’m a multi-passionate goal-chaser with a drive for exploring both the mind and the world. My research fits within neuroscience and psychology, with a focus on understanding perception, anxiety, and how interventions used for anxiety influence our perception. When I’m not buried in research or working towards my PhD, you’ll find me somewhere outdoors, having spent years as an adventure tourism guide and instructor. 
+

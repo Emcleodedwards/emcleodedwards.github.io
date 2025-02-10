@@ -15,5 +15,4 @@ No reira, tēnā koutou, tēnā koutou, tēnā koutou katoa\
 
 
 Kia ora! I'm Ella!\
-I’m a multi-passionate goal-chaser with a drive for exploring both the mind and the world. My research fits within neuroscience and psychology, with a focus on understanding perception, anxiety, and how interventions used for anxiety influence our perception. When I’m not buried in research or working towards my PhD, you’ll find me somewhere outdoors. 
-
+My research fits within neuroscience and psychology, with a focus on understanding perception, anxiety, and how interventions used for anxiety influence our perception. When I’m not buried in research or working towards my PhD you’ll find me somewhere outdoors! I'm passionate about increasing mental health literacy and equipping communities with knowledge and resources required to advocate for their wellbeing. 

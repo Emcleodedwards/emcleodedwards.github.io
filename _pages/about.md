@@ -4,7 +4,7 @@ title: "About"
 ---
 
 Kia ora e te Whānau!\
-Ko whāingaroa te whenua tipu\ 
+Ko whāingaroa te whenua tipu\
 Ka mihi au ki te mauka ko Karioi\
 Ka mihi au ki te moana ko Whāingaroa\
 Ko Ella tōku ikoa\

@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "E McLeod"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : " 🧠 Brain Enthusiast. Current PhD student. Exploring the connection between anxiety and the breath."
+  bio    : " 🧠 Brain Enthusiast.\\ Current PhD student.\\ Exploring the connection between anxiety and the breath."
   links:
     - label: "IMAGE Otago Website"
       icon: "fas fa-fw fa-link"
